@@ -17,7 +17,7 @@
 
 
 # Front-end
-    HTML5/CSS3 Javascript ES6+
+    HTML5/CSS3/SASS Javascript ES6+
 
 # Education
     __GTU__
